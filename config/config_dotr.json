@@ -1,9 +1,9 @@
 {
-   "indexTitle": "Documenta Matris Ad Filiam [EVT2 demo version]",
+   "indexTitle": "The Dream of the Rood [EVT2 demo version]",
    "webSite": "http://vbd.humnet.unipi.it/",
    "logoUrl": "",
    
-   "dataUrl": "data/text/DMAF.xml",
+   "dataUrl": "data/text/VB-DOTR.xml",
    "sourcesUrl": "",
    "analoguesUrl": "",
    "sourcesTextsUrl": "",
@@ -12,9 +12,9 @@
 
    "visCollTextUrl": "",
    "visCollStyleUrl": "",
-   "visCollSvg": "",
-   "visCollImageList": "",
-   "visCollDataModel": "",
+   "visCollSvg": "data/viscoll/SVG/",
+   "visCollImageList": "data/viscoll/VB-imageList.xml",
+   "visCollDataModel": "data/viscoll/VB-dataModel.xml",
 
    "defaultViewMode": "imgTxt",
    "availableViewModes": [
@@ -89,7 +89,7 @@
    "enableNavBar": true,
    "initNavBarOpened": true,
    "thumbnailsButton": true,
-   "viscollButton": false,
+   "viscollButton": true,
 
    "toolPinAppEntries": true,
    "toolImageTextLinking": true,
