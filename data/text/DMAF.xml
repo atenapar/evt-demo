@@ -1,84 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="schema/tei-vbd.rng"
-                       title="Incipiunt documenta matris ad filiam Digital standard schema"
+                       title="Documenta matris ad filiam Digital standard schema"
                        schematypens="http://relaxng.org/ns/structure/1.0"
                        type="application/xml"
                      ?>
-                     <!--problema: inserire le aggiunte in 164v, 165r
-                     decorazioni in 167v
-                     <add type="marginalia" place="bottom"/>-->
-                     <!--<add type="marginalia" place="above">Q           T</add>
-                     <add type="marginalia" place="above">Q           T</add>-->
     <TEI xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
           <fileDesc>
               <titleStmt>
-                <title>Edizione di 191 G.23 ff. 164v-167r "Documenta matris ad filiam"</title> <!--questo è il titolo del file, ma devo metterci quello del manoscritto?-->
-                <author>Atena Parolai</author>
+                <title>Edition of 191 G.23 ff. 164v-167r "Documenta matris ad filiam"</title> 
+                <author>J. de Ramsey Capellani</author>
+                <principal>Atena Parolai</principal>
+                <respStmt>
+                  <resp>Conversion to TEI-conformant markup: </resp>
+                  <name>Atena Parolai</name>
+                  <name>Roberto Rosselli Del Turco</name>
+                </respStmt>
+                <respStmt>
+                  <resp>General overview: </resp>
+                  <name>Atena Parolai</name>
+                  <name>Roberto Rosselli Del Turco</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Experimental style sheets: </resp>
+                  <name>Atena Parolai</name>
+                  <name>Roberto Rosselli Del Turco</name>
+                </respStmt>
               </titleStmt>
+
+              <extent>[??] kilobytes</extent>
+              
               <publicationStmt>
-              <p>Un'edizione del testo è presente in Ratis Raving: And Other Early Scots Poems on Morals, 1939, a cura di Ritchie Girvan edito da Society. Il testo è stampato a fronte solo sulle pagine dispari a partire da p. 82 fino a p. 99.</p>
+              <p>A critical printed edition of Documenta matris ad filiam can be found in Ratis Raving: And Other Early Scots Poems on Morals, 1939, by Ritchie Girvan printed for the Society by W. Blackwood and Sons. The text is printed on the odd-numbered pages 82-99.</p>
               </publicationStmt>
+
               <sourceDesc>
                 <msDesc>
                   <msIdentifier>
+                    <country>United Kingdom</country>
                     <settlement>Cambridge</settlement>
                     <repository>St. John's College Library</repository>
                     <idno>191 G.23</idno>
+                    <msName>Barbour's Bruce</msName>
                   </msIdentifier>
-                  <physDesc>
-                    <objectDesc form="codex">
-                      <supportDesc material="paper">
-                        <extent>
-                          <measure quantity="143" unit="folio">ff. 143</measure>
-                        </extent>
-                        <measure type="dimensions" unit="centimeters">
-                          <height>8.375</height>
-                          <width>5.625</width>
-                        </measure>
-                        <layoutDesc>
-                          <layout columns="1">42-45 versi per pagina</layout>
-                        </layoutDesc>
-                      </supportDesc>
-                    </objectDesc>
-                    <handDesc>
-                      <handNote script="current" style="ugly">"an ugly current hand"</handNote>
-                    </handDesc>
-                    <history>
-                      <origDate notBefore="1400" notAfter="1500">1487</origDate>
-                    </history>
-                    <decoDesc>In 164r: decorazioni in inchiostro rosso delle capitali dei vv. 1-8 e sottolineatura in rosso del primo verso.
-                    In 164v: presenza di capitali Q, T nel margine superiore e decorazione in inchiostro rosso della capitale del v. 39.
-                    In 165r: presenza di di 11 A nel margine inferiore destro.
-                    In 166v: decorazione in inchiostro rosso della capitale del v. 21.
-                    In 167v: aggiunta nel margine sinistro del terzo verso, puntini decorativi in inchiostro rosso nel margine destro e contorno in inchiostro rosso degli ultimi 3 versi del testo.
-                    </decoDesc>
-                    <note type="marginalia/glossa"> <add></add></note>
-                  </physDesc>
                   <msContents>
+                    <textLang mainLang="sco" otherLangs="la">The primary language in this manuscript is Scots, with Latin incipit and explicit for each text.</textLang>
+
                     <msItem n="1">
-                      <locus>ff. 26r-163v</locus>
+                      <locus from="26r" to="163v">26r - 163v</locus>
                       <title>Barbour's Bruce</title>
                       <author>J de R Capellani</author>
+                      <explicit>Expl. liber excellentissimi et nobilissimi principis roberti de broyss scottorum regis illustrissimi qui quidem liber scriptus fuit et finitus in vigilia sancti Johannis baptiste viz. decollacio eiusdem per manum J. de R capellani a.d. Millesimo quadringentesimo octogesimo septimo.</explicit>
                     </msItem>
+
                     <msItem n="2">
-                      <locus>ff. 164r-167v</locus>
+                      <locus>163v</locus>
+                      <title>Epitaphium regis roberti broyss</title>
+                    </msItem>
+
+                    <msItem n="3">
+                      <locus from="164r" to="167v">164r - 167v</locus>
                       <title>Documenta matris ad filiam</title>
+                      <incipit>Incipiunt Documenta matris ad filiam</incipit>
+                      <explicit>Explicit Documentum matris ad filiam per Manum J de R capellani</explicit>
                       <author>J de R Capellani</author>
                     </msItem>
-                    <msItem n="3">
-                      <locus>f. 167v</locus>
+
+                    <msItem n="4">
+                      <locus>167v</locus>
                       <title>Documentum notabile</title>
+                      <incipit>Inc. documentum notabile</incipit>
+                      <explicit>Expl. documentum ualde utile quod J. to yow…</explicit>
                       <author>J de R Capellani</author>
                     </msItem>
                   </msContents>
-                  <history>Donated by T.C.S.</history>
+
+                  <physDesc>
+                    <objectDesc form="codex">
+                      <supportDesc material="paper">
+                        <support>
+                          <p><material>Paper</material>
+                          <objectType>codex</objectType>.</p>
+                        </support>
+                        <extent>143 leaves, of which the first 25 are missing.
+                          <dimensions scope="all" type="leaf" unit="cm">
+                            <height>21</height>
+                            <width>15</width>
+                          </dimensions>
+                        </extent>
+                      </supportDesc>
+                      <layoutDesc>
+                        <layout columns="1">
+                        <p>Text is written in a single column per paper leaf, with 42-25 lines to each page.</p>
+                        </layout>
+                      </layoutDesc>
+                    </objectDesc>
+
+                    <handDesc hands="1">
+                      <handNote script="current">
+                        <p>According to St. John's College Library webpage, the manuscript is entirely written by J. de Ramsay. This is also confirmed in the endings of the first two contents, stating that they were written by "J. de R. Capellani". The hand is described as "ugly current" and has the looks of a mixture between Anglicana and Secretary.</p>
+                      </handNote>
+                    </handDesc>
+
+                    <decoDesc>
+                      <p>In Documenta matris ad filiam the incipit and explicit are underlined in red ink. The first word of the text is made of capitals decorated with red strokes. The initials of the first of f. 164r ll. 1-8, f. 164v l. 39 and f. 166v l. 21 are decorated with a red stroke. In the right margin of 167v is a vertical line made of red dots.</p>
+                    </decoDesc>
+                  </physDesc>
+
+                  <history>
+                    <origin>
+                      <origDate>1487</origDate>
+                    </origin>
+                    <acquisition>Donated by T.C.S.</acquisition>
+                  </history>
                 </msDesc>
-                <bibl></bibl>    
+
             </sourceDesc>
+
           </fileDesc>
-            <encodingDesc>
-                <charDecl>
+
+          <encodingDesc>
+            <charDecl>
                     <!-- VOWELS -->
 
           <char xml:id="eenl">
@@ -88,15 +130,6 @@
             <mapping type="codepoint">U+EEE6</mapping>
             <mapping type="diplomatic"></mapping>
             <mapping type="normalized"></mapping>
-          </char>
-        
-          <char xml:id="inodot">
-            <localProp name="name"
-            value="LATIN SMALL LETTER DOTLESS I"/>
-            <localProp name="entity" value="inodot"/>
-            <mapping type="codepoint">U+0131</mapping>
-            <mapping type="diplomatic">ı</mapping>
-            <mapping type="normalized">i</mapping>
           </char>
 
           <char xml:id="isup">
@@ -227,14 +260,6 @@
             <mapping type="diplomatic">⁊</mapping>
           </char>
 
-          <char xml:id="hslonglig">
-            <localProp name="name"
-            value="LATIN SMALL LIGATURE H AND LONG S"/>
-            <localProp name="entity" value="hslonglig"/>
-            <mapping type="codepoint">U+EBAD</mapping>
-            <mapping type="diplomatc"></mapping>
-          </char>
-
           <char xml:id="is">
             <localProp name="name"
             value="LATIN SMALL LETTER IS"/>
@@ -309,10 +334,80 @@
             <mapping type="diplomatic">·</mapping>
           </char>
                 </charDecl>
-            </encodingDesc>
+        </encodingDesc>
+
+        <profileDesc>
+            <langUsage>
+              <language ident="sco">Scots</language>
+            </langUsage>
+        </profileDesc>
+
         </teiHeader>
 
-        <text>
+        <facsimile xml:id="fac_DMAF">
+          <surface xml:id="DMAF_surf_164r" corresp="#DMAF_fol_164r">
+            <graphic height="3214px" url="data/images/single/DMAF_fol_164r.jpg" width="2211px"/>
+          </surface>
+
+          <surface xml:id="DMAF_surf_164v" corresp="#DMAF_fol_164v">
+            <graphic height="3214px" url="data/images/single/DMAF_fol_164v.jpg" width="2211px"/>
+          </surface>
+
+          <surface xml:id="DMAF_surf_165r" corresp="#DMAF_fol_165r">
+            <graphic height="3214px" url="data/images/single/DMAF_fol_165r.jpg" width="2211px"/>
+          </surface>
+
+          <surface xml:id="DMAF_surf_165v" corresp="#DMAF_fol_165v">
+            <graphic height="3214px" url="data/images/single/DMAF_fol_165v.jpg" width="2211px"/>
+          </surface>
+
+          <surface xml:id="DMAF_surf_166r" corresp="#DMAF_fol_166r">
+            <graphic height="3214px" url="data/images/single/DMAF_fol_166r.jpg" width="2211px"/>
+          </surface>
+
+          <surface xml:id="DMAF_surf_166v" corresp="#DMAF_fol_166v">
+            <graphic height="3214px" url="data/images/single/DMAF_fol_166v.jpg" width="2211px"/>
+          </surface>
+
+          <surface xml:id="DMAF_surf_167r" corresp="#DMAF_fol_167r">
+            <graphic height="3214px" url="data/images/single/DMAF_fol_167r.jpg" width="2211px"/>
+          </surface>
+
+          <surface xml:id="DMAF_surf_167v" corresp="#DMAF_fol_167v">
+            <graphic height="3214px" url="data/images/single/DMAF_fol_167v.jpg" width="2211px"/>
+          </surface>
+          
+        </facsimile>
+
+        <text n="Documenta matris ad filiam" xml:id="text_DMAF">
+        <front>
+          <titlePage>
+            <titlePart>Docuimenta matris ad filiam</titlePart>
+          </titlePage>
+
+          <div type="paratext" subtype="intro">
+            <p><title>Documenta matris ad filiam</title> is part of a tradition of conduct literature on the subject of rules and behaviours to follow in late-15th century English and Scottish society.</p>
+          </div>
+
+          <div type="paratext" subtype="references">
+            <listBibl>
+
+              <biblStruct xml:id="Mustanoja1948">
+                <monogr>
+                  <title level="m">The good wife taught her daughter; The good wife wold a pylgremage; The thewis of gud women</title>
+                  <editor>Mustanoja, Tauno F.</editor>
+                  <imprint>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Academia Scientiarum Fennica</publisher>
+                    <date>1848</date>
+                  </imprint>
+                </monogr>
+                <!-- https://tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#COBITY -->
+              </biblStruct>
+            </listBibl>
+          </div>
+        </front>
+
         <body>
 
         <div n="Documenta matris ad filiam" subtype="edition_text" type="verse" xml:id="DMAF">
@@ -323,8 +418,12 @@
               <choice>
                 <abbr><hi rend="decorated">I</hi>ncipiu<am>t<g ref="#bar"/></am></abbr>
                 <expan><hi rend="decorated">I</hi>ncipiu<ex>n</ex>t</expan> 
+              </choice>
+              <choice>
                 <abbr>docu<am>m<g ref="#bar"/>e<g ref="#bar"/></am>ta</abbr>
                 <expan>docume<ex>n</ex>ta</expan> 
+              </choice>
+              <choice>
                 <abbr>m<g ref="#rrot"/><am>i<g ref="#bar"/>s<g ref="#bar"/></am></abbr>
                 <expan>m<ex>at</ex><g ref="#rrot"/>is</expan> 
               </choice>
@@ -351,7 +450,9 @@
               <hi rend="decorated">Q</hi>uhilk 
               <choice>
                 <abbr>ge<g ref="#rrot"/><am>r<g ref="#is"/></am></abbr>
-                <expan>ge<g ref="#rrot"/>r<ex>is</ex></expan>
+                <expan>ge<g ref="#rrot"/>r<ex>is</ex></expan> 
+              </choice>
+              <choice>
                 <abbr>wom<am>e<g ref="#bar"/></am></abbr>
                 <expan>wome<ex>n</ex></expan>
               </choice> 
@@ -362,7 +463,9 @@
               <hi rend="decorated">A</hi>nd 
               <choice>
                 <abbr>mak<am><g ref="#eenl"/></am></abbr>
-                <expan>mak<ex>es</ex></expan>
+                <expan>mak<ex>es</ex></expan> 
+              </choice>
+              <choice>
                 <abbr>po<am>u<g ref="#bar"/></am></abbr>
                 <expan>pou<ex>er</ex></expan>
               </choice> 
@@ -397,7 +500,7 @@
             <l n="11"><lb facs="#DMAF_line_164r_11" n="11" xml:id="DMAF_lb_164r_11"/>
               <hi rend="cap">A</hi><g ref="#sclose"/> fa<g ref="#rrot"/>e<g ref="#sins"/>t 
               <choice>
-                <abbr><g ref="#rrot"/>o<am><g ref="#hslonglig"/></am></abbr>
+                <abbr><g ref="#rrot"/>o<am><g ref="#szlig"/></am></abbr>
                 <expan><g ref="#rrot"/>os<ex>e</ex></expan></choice> 
               <g ref="#sins"/>oyne 
               <choice>
@@ -627,6 +730,7 @@
             <!-- abbiamo delle lettere in bordo superiore -->
             <pb n="164v" xml:id="DMAF_fol_164v" facs="data/images/single/DMAF_fol_164v.jpg"/>
             <l n="1"><lb facs="#DMAF_line_164v_01" n="1" xml:id="DMAF_lb_164v_01"/>
+            <note type="marginalia/glossa" place="above"> <add>Q          T</add></note>
               <hi rend="cap">B</hi>ot quhen it aw with <g ref="#rrot"/>e<g ref="#sins"/>on to be
             </l>
 
@@ -801,6 +905,8 @@
               <choice>
                 <orig>f<g ref="#rrot"/>adelit</orig>
                 <reg>f<g ref="#rrot"/>a delit</reg> 
+              </choice>
+              <choice>
                 <abbr>no<am><g ref="#tsup"/></am></abbr>
                 <expan>no<ex>ch</ex>t</expan>
               </choice> 
@@ -808,6 +914,8 @@
               <choice>
                 <orig><hi rend="decorated"><g ref="#lstrok"/></hi></orig>
                 <reg>vel</reg> 
+              </choice>
+              <choice>
                 <abbr>vaka<am>b<g ref="#bar"/>l<g ref="#bar"/></am>e</abbr>
                 <expan>vakab<ex>i</ex>le</expan>
               </choice>
@@ -873,6 +981,7 @@
 
             <pb n="165r" xml:id="DMAF_fol_165r" facs="data/images/single/DMAF_fol_165r.jpg"/>
             <l n="1"><lb facs="#DMAF_line_165r_01" n="1" xml:id="DMAF_lb_165r_01"/>
+              <note type="marginalia/glossa" place="bottom"> <add> AA AA A A AAA AA</add></note>
               fo<g ref="#rrot"/> meti<g ref="#sclose"/> and d<g ref="#rrot"/>ynki<g ref="#sclose"/> deliciou<g ref="#szlig"/>
             </l>
 
@@ -918,7 +1027,9 @@
               <hi rend="cap">T</hi>hoill 
               <choice>
                 <abbr><g ref="#thorn"/>a<am>i<g ref="#bar"/></am></abbr>
-                <expan><g ref="#thorn"/>ai<ex>m</ex></expan>
+                <expan><g ref="#thorn"/>ai<ex>m</ex></expan> 
+              </choice>
+              <choice>
                 <abbr>no<am><g ref="#tsup"/></am></abbr>
                 <expan>no<ex>ch</ex>t</expan>
               </choice> 
@@ -938,8 +1049,12 @@
               <choice>
                 <abbr><hi rend="cap">N</hi>ou<am><g ref="#thorn"/><g ref="#bar"/></am></abbr>
                 <expan><hi rend="cap">N</hi>ou<g ref="#thorn"/><ex>ir</ex></expan> 
+              </choice>
+              <choice>
                 <orig>nytht</orig>
                 <reg>nycht</reg> 
+              </choice>
+              <choice>
                 <orig>norday</orig>
                 <reg>nor day</reg>
               </choice> 
@@ -1030,6 +1145,8 @@
               <choice>
                 <orig>canno</orig>
                 <reg>can no</reg> 
+              </choice>
+              <choice>
                 <abbr>pe<g ref="#rrot"/>el<am><g ref="#lstrok"/></am></abbr>
                 <expan>pe<g ref="#rrot"/>ell<ex>is</ex></expan>
               </choice> 
@@ -1095,7 +1212,9 @@
               <hi rend="cap"><g ref="#THORN"/></hi>at du<g ref="#rrot"/><g ref="#sins"/>t 
               <choice>
                 <abbr>ne<am>u<g ref="#combcurlhigh"/></am></abbr>
-                <expan>neu<ex>ir</ex></expan>
+                <expan>neu<ex>ir</ex></expan> 
+              </choice>
+              <choice>
                 <abbr>ef<am>t<g ref="#combcurlhigh"/></am></abbr>
                 <expan>eft<ex>ir</ex></expan>
               </choice> 
@@ -1351,6 +1470,8 @@
               <choice>
                 <abbr>betak<am>y<g ref="#combcurlhigh"/></am>ni<g ref="#sclose"/></abbr>
                 <expan>betaky<ex>n</ex>ni<g ref="#sclose"/></expan> 
+              </choice>
+              <choice>
                 <abbr>vil<g ref="#sins"/><am>u<g ref="#combcurlhigh"/></am>na<g ref="#sclose"/></abbr>
                 <expan>vil<g ref="#sins"/>u<ex>m</ex>na<g ref="#sclose"/></expan>
               </choice>
@@ -1467,8 +1588,8 @@
             <l n="6"><lb facs="#DMAF_line_166r_06" n="6" xml:id="DMAF_line_166r_06"/>
               <hi rend="cap">G</hi>if na 
               <choice>
-              <orig>occa<g ref="#sins"/>ion<g ref="#bar"/>e<g ref="#bar"/></orig>
-              <reg>occa<g ref="#sins"/>ione</reg>
+                <orig>occa<g ref="#sins"/>ion<g ref="#bar"/>e<g ref="#bar"/></orig>
+                <reg>occa<g ref="#sins"/>ione</reg>
               </choice> 
               for till le
             </l>
@@ -1496,6 +1617,8 @@
               <choice>
                 <orig>itbe</orig>
                 <reg>it be</reg> 
+              </choice>
+              <choice>
                 <abbr>ne<am>u<g ref="#combcurlhigh"/></am></abbr>
                 <expan>neu<ex>ir</ex></expan>
               </choice> 
@@ -1524,6 +1647,8 @@
               <choice>
                 <orig>notht</orig>
                 <reg>nocht</reg> 
+              </choice>
+              <choice>
                 <orig>v<g ref="#bar"/>ith</orig>
                 <reg>vith</reg>
               </choice> 
@@ -1577,6 +1702,8 @@
               <choice>
                 <orig>an<g ref="#bar"/>e<g ref="#bar"/></orig>
                 <reg>ane</reg> 
+              </choice>
+              <choice>
                 <orig>allan<g ref="#bar"/>e<g ref="#bar"/></orig>
                 <reg>allane</reg>
               </choice>
@@ -1652,6 +1779,8 @@
               <choice>
                 <orig>an<g ref="#bar"/>e<g ref="#bar"/></orig>
                 <reg>ane</reg> 
+              </choice>
+              <choice>
                 <orig>vantoun<g ref="#bar"/>e<g ref="#bar"/></orig>
                 <reg>vantoune</reg>
               </choice> 
@@ -1875,6 +2004,8 @@
               <choice>
                 <abbr>tak<am><g ref="#is"/></am></abbr>
                 <expan>tak<ex>is</ex></expan> 
+              </choice>
+              <choice>
                 <orig>an<g ref="#bar"/>e<g ref="#bar"/></orig>
                 <reg>ane</reg>
               </choice> 
@@ -1898,6 +2029,8 @@
               <choice>
                 <orig><hi rend="decorated">B</hi><g ref="#bar"/>e</orig>
                 <reg><hi rend="decorated">B</hi>e</reg> 
+              </choice>
+              <choice>
                 <abbr>no<am><g ref="#tsup"/></am></abbr>
                 <expan>no<ex>ch</ex>t</expan>
               </choice> 
@@ -1945,6 +2078,8 @@
               <choice>
                 <orig>litht</orig>
                 <reg>licht</reg> 
+              </choice>
+              <choice>
                 <abbr>wom<am>e<g ref="#combcurlhigh"/></am></abbr>
                 <expan>wome<ex>n</ex></expan>
               </choice> 
@@ -1994,6 +2129,8 @@
               <choice>
                 <orig>don<g ref="#bar"/>e<g ref="#bar"/></orig>
                 <reg>done</reg> 
+              </choice>
+              <choice>
                 <abbr><g ref="#thorn"/>a<am>i<g ref="#combcurlhigh"/></am></abbr>
                 <expan><g ref="#thorn"/>ai<ex>m</ex></expan>
               </choice> 
@@ -2052,6 +2189,8 @@
               <choice>
                 <abbr>e<am>u<g ref="#combcurlhigh"/></am></abbr>
                 <expan>eu<ex>ir</ex></expan> 
+              </choice>
+              <choice>
                 <orig>haue<g ref="#combcurlhigh"/></orig>
                 <reg>haue</reg>
               </choice> 
@@ -2085,6 +2224,8 @@
               <choice>
                 <abbr>mad<am>y<g ref="#combcurlhigh"/></am>ni<g ref="#sclose"/></abbr>
                 <expan>mady<ex>n</ex>ni<g ref="#sclose"/></expan> 
+              </choice>
+              <choice>
                 <abbr>e<am>u<g ref="#combcurlhigh"/></am></abbr>
                 <expan>eu<ex>ir</ex></expan>
               </choice> 
@@ -2333,7 +2474,9 @@
               for 
               <choice>
                 <abbr>po<am>u<g ref="#combcurlhigh"/></am>te </abbr>
-                <expan>pou<ex>er</ex>te </expan>
+                <expan>pou<ex>er</ex>te </expan> 
+              </choice>
+              <choice>
                 <abbr>mak<am><g ref="#is"/></am></abbr>
                 <expan>mak<ex>is</ex></expan>
               </choice> 
@@ -2354,7 +2497,8 @@
             
             <l n="8"><lb facs="#DMAF_line_167v_08" n="8" xml:id="DMAF_lb_167v_08"/>
               <g ref="#thorn"/>ai wald 
-              <choice><abbr>ne<am>u<g ref="#combcurlhigh"/></am></abbr>
+              <choice>
+                <abbr>ne<am>u<g ref="#combcurlhigh"/></am></abbr>
                 <expan>neu<ex>ir</ex></expan>
               </choice> 
               fo<g ref="#rrot"/>falt for na thing
@@ -2369,8 +2513,12 @@
               <choice>
                 <abbr>my<g ref="#sins"/><am>t<g ref="#combcurlhigh"/>i</am><g ref="#sclose"/> </abbr>
                 <expan>my<g ref="#sins"/>t<ex>er</ex>i<g ref="#sclose"/> </expan>
+              </choice>
+              <choice>
                 <abbr>hald<am><g ref="#is"/></am> </abbr>
                 <expan>hald<ex>is</ex> </expan>
+              </choice>
+              <choice>
                 <abbr>mad<am>yn<g ref="#combcurlhigh"/></am>i<g ref="#sclose"/></abbr>
                 <expan>mady<ex>n</ex>ni<g ref="#sclose"/></expan>
               </choice> 
@@ -2528,7 +2676,6 @@
                 <expan>cap<ex>ella</ex>ni</expan>
               </choice>
             </l>
-            <!--come posso indicare i pallini rossi in basso dx sul foglio?-->
             <!--fine 167v-->
 
 
