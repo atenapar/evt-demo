@@ -71,7 +71,7 @@
                       <title>Documentum notabile</title>
                       <incipit>Inc. documentum notabile</incipit>
                       <explicit>Expl. documentum ualde utile quod J. to yow…</explicit>
-                      <author>J de R Capellani</author>
+                      <author>J de R Capellani</author><!--Scotticized version of John Lydgate’s Dietary-->
                     </msItem>
                   </msContents>
 
@@ -103,7 +103,7 @@
                     </handDesc>
 
                     <decoDesc>
-                      <p>In Documenta matris ad filiam the incipit and explicit are underlined in red ink. The first word of the text is made of capitals decorated with red strokes. The initials of the first of f. 164r ll. 1-8, f. 164v l. 39 and f. 166v l. 21 are decorated with a red stroke. In the right margin of 167v is a vertical line made of red dots.</p>
+                      <p>In Documenta matris ad filiam the incipit and explicit are underlined in red ink. The first word of the text is made of capitals decorated with red strokes. The initials of the first of f. 164r ll. 1-8, f. 164v l. 39 and f. 166v l. 21 are decorated with a red stroke. In the right margin of 167v is a vertical line made of red dots. Fols 164v, 165r, 167v contain marginalia deemed of no linguistic nor content relevance, therefore treated as purely decorative.</p>
                     </decoDesc>
                   </physDesc>
 
@@ -258,6 +258,7 @@
             <localProp name="entity" value="et"/>
             <mapping type="codepoint">U+204A</mapping>
             <mapping type="diplomatic">⁊</mapping>
+            <mapping type="normalized">&amp;</mapping>
           </char>
 
           <char xml:id="is">
@@ -730,7 +731,7 @@
             <!-- abbiamo delle lettere in bordo superiore -->
             <pb n="164v" xml:id="DMAF_fol_164v" facs="data/images/single/DMAF_fol_164v.jpg"/>
             <l n="1"><lb facs="#DMAF_line_164v_01" n="1" xml:id="DMAF_lb_164v_01"/>
-            <note type="marginalia/glossa" place="above"> <add>Q          T</add></note>
+            <note type="marginalia" place="above"> <add>Q          T</add></note>
               <hi rend="cap">B</hi>ot quhen it aw with <g ref="#rrot"/>e<g ref="#sins"/>on to be
             </l>
 
@@ -981,7 +982,7 @@
 
             <pb n="165r" xml:id="DMAF_fol_165r" facs="data/images/single/DMAF_fol_165r.jpg"/>
             <l n="1"><lb facs="#DMAF_line_165r_01" n="1" xml:id="DMAF_lb_165r_01"/>
-              <note type="marginalia/glossa" place="bottom"> <add> AA AA A A AAA AA</add></note>
+              <note type="marginalia" place="bottom"> <add> AA AA A A AAA AA</add></note>
               fo<g ref="#rrot"/> meti<g ref="#sclose"/> and d<g ref="#rrot"/>ynki<g ref="#sclose"/> deliciou<g ref="#szlig"/>
             </l>
 
@@ -1277,7 +1278,6 @@
               </choice> 
               man na viff
             </l>
-            <!--varie lettere isolate in angolo margine inf dx-->
             <!--fine 165r-->
 
             <!--inizio 165v-->
@@ -1322,7 +1322,7 @@
             </l>
 
             <l n="7"><lb facs="#DMAF_line_165v_07" n="7" xml:id="DMAF_lb_165v_07"/>
-              flaw in 
+              flawm 
               <choice>
                 <abbr>no<am><g ref="#tsup"/></am></abbr>
                 <expan>no<ex>ch</ex>t</expan>
@@ -2544,7 +2544,8 @@
             </l>
             
             <l n="13"><lb facs="#DMAF_line_167v_13" n="13" xml:id="DMAF_lb_167v_13"/>
-              <hi rend="cap">A</hi>nd may 
+            <note type="marginalia" place="left"><add>i<g ref="#is"/></add></note>
+              <damage agent="smudge"><hi rend="cap">A</hi>nd</damage> may  
               <choice>
                 <abbr>no<am><g ref="#tsup"/></am></abbr>
                 <expan>no<ex>ch</ex>t</expan>
