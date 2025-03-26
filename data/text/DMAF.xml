@@ -258,7 +258,7 @@
             <localProp name="entity" value="et"/>
             <mapping type="codepoint">U+204A</mapping>
             <mapping type="diplomatic">⁊</mapping>
-            <mapping type="normalized">&amp;</mapping>
+            <mapping type="normalized">&amp;</mapping><!--comunque non me la visualizza, come faccio?-->
           </char>
 
           <char xml:id="is">
