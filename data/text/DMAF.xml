@@ -84,7 +84,7 @@
                         </support>
                         <extent>143 leaves, of which the first 25 are missing.
                           <dimensions scope="all" type="leaf" unit="cm">
-                            <height>21</height>
+                            <height>21</height> <!--compaiono sparsi nel testo-->
                             <width>15</width>
                           </dimensions>
                         </extent>
@@ -112,7 +112,7 @@
                       <origDate>1487</origDate>
                     </origin>
                     <acquisition>Donated by T.C.S.</acquisition>
-                  </history>
+                  </history><!-- non compaiono -->
                 </msDesc>
 
             </sourceDesc>
@@ -383,7 +383,7 @@
         <text n="Documenta matris ad filiam" xml:id="text_DMAF">
         <front>
           <titlePage>
-            <titlePart>Docuimenta matris ad filiam</titlePart>
+            <titlePart>Documenta matris ad filiam</titlePart>
           </titlePage>
 
           <div type="paratext" subtype="intro">
