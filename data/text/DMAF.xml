@@ -625,8 +625,8 @@
               </choice> 
               le<g ref="#sins"/>ull 
               <choice>
-                <abbr>t<g ref="#rrot"/>athlyng<am><g ref="#is"/></am></abbr>
-                <expan>t<g ref="#rrot"/>athlyng<ex>is</ex></expan>
+                <abbr>t<g ref="#rrot"/>atlyng<am><g ref="#is"/></am></abbr>
+                <expan>t<g ref="#rrot"/>atlyng<ex>is</ex></expan>
               </choice> 
               till heir
             </l>
@@ -982,7 +982,7 @@
 
             <pb n="165r" xml:id="DMAF_fol_165r" facs="data/images/single/DMAF_fol_165r.jpg"/>
             <l n="1"><lb facs="#DMAF_line_165r_01" n="1" xml:id="DMAF_lb_165r_01"/>
-              <note type="marginalia" place="bottom"> <add> AA AA A A AAA AA</add></note>
+              <note type="marginalia" place="bottom"><add> AA AA A A AAA AA</add></note>
               fo<g ref="#rrot"/> meti<g ref="#sclose"/> and d<g ref="#rrot"/>ynki<g ref="#sclose"/> deliciou<g ref="#szlig"/>
             </l>
 
@@ -1079,7 +1079,7 @@
               <g ref="#sins"/>o <g ref="#sins"/>yb no 
               <choice>
                 <abbr>ten<am>d<g ref="#combcurlhigh"/></am></abbr>
-                <expan>rend<ex>ir</ex></expan>
+                <expan>tend<ex>ir</ex></expan>
               </choice>
             </l>
 
@@ -1639,7 +1639,12 @@
             </l>
             
             <l n="12"><lb facs="#DMAF_line_166r_12" n="12" xml:id="DMAF_lb_166r_12"/>
-              folk will nocht leiff of <g ref="#thorn"/>ar demyng
+              folk will 
+              <choice>
+                <orig>notht</orig>
+                <reg>nocht</reg> 
+              </choice> 
+              leiff of <g ref="#thorn"/>ar demyng
             </l>
             
             <l n="13"><lb facs="#DMAF_line_166r_13" n="13" xml:id="DMAF_lb_166r_13"/>
@@ -1656,12 +1661,17 @@
             </l>
             
             <l n="14"><lb facs="#DMAF_line_166r_14" n="14" xml:id="DMAF_lb_166r_14"/>
-              all <g ref="#thorn"/>ouch <g ref="#thorn"/>ai be 
+              all 
+              <choice>
+                <orig><g ref="#thorn"/>outh</orig>
+                <reg><g ref="#thorn"/>ouch</reg>
+              </choice> 
+              <g ref="#thorn"/>ai be 
               <choice>
                 <abbr>ne<am>u<g ref="#combcurlhigh"/></am></abbr>
                 <expan>neu<ex>ir</ex></expan>
               </choice> 
-              <g ref="#sins"/>a vo<g ref="#rrot"/>rthy
+              <g ref="#sins"/>a vo<g ref="#rrot"/>thy
             </l>
             
             <l n="15"><lb facs="#DMAF_line_166r_15" n="15" xml:id="DMAF_lb_166r_15"/>
@@ -2071,8 +2081,8 @@
             <l n="26"><lb facs="#DMAF_line_166v_26" n="26" xml:id="DMAF_lb_166v_26"/>
               <hi rend="cap">T</hi>hat <g ref="#thorn"/>ai 
               <choice>
-                <orig>mitht</orig>
-                <reg>micht</reg>
+                <orig>mytht</orig>
+                <reg>mycht</reg>
               </choice> 
               na 
               <choice>
@@ -2457,7 +2467,7 @@
             </l>
             
             <l n="3"><lb facs="#DMAF_line_167v_03" n="3" xml:id="DMAF_lb_167v_03"/>
-              <add place="margin-left">u<g ref="#combcurlhigh"/></add> 
+              <note type="marginalia" place="left"><add>i<g ref="#is"/></add></note>
               <hi rend="cap">A</hi>nd kep <g ref="#thorn"/>ame f<g ref="#rrot"/>a neyd and my<g ref="#sins"/>tair
             </l>
             
@@ -2544,7 +2554,6 @@
             </l>
             
             <l n="13"><lb facs="#DMAF_line_167v_13" n="13" xml:id="DMAF_lb_167v_13"/>
-            <note type="marginalia" place="left"><add>i<g ref="#is"/></add></note>
               <damage agent="smudge"><hi rend="cap">A</hi>nd</damage> may  
               <choice>
                 <abbr>no<am><g ref="#tsup"/></am></abbr>
@@ -2659,8 +2668,8 @@
             <l n="29" rend="red_contour"><lb facs="#DMAF_line_167v_29" n="29" xml:id="DMAF_lb_167v_29"/>
               <hi rend="cap">E</hi>xplicit documentum 
               <choice>
-                <abbr>ma<am><g ref="#rrot"/><g ref="#bar"/>i<g ref="#bar"/>s<g ref="#bar"/></am></abbr>
-                <expan>ma<ex>t</ex>ris</expan>
+                <abbr>m<am><g ref="#rrot"/><g ref="#bar"/>i<g ref="#bar"/>s<g ref="#bar"/></am></abbr>
+                <expan>m<ex>at</ex>ris</expan>
               </choice> 
               ad filiam
             </l>
