@@ -94,7 +94,7 @@
    "toolPinAppEntries": true,
    "toolImageTextLinking": true,
 
-   "namedEntitiesSelector": true,
+   "namedEntitiesSelector": false,
    "namedEntitiesToHandle": [
       {
          "tagName": "persName",
@@ -116,7 +116,7 @@
       {
          "tagName": "seg",
          "label": "Kenningar",
-         "available": true,
+         "available": false,
          "color": "#cfc"
       },
       {
