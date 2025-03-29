@@ -112,7 +112,7 @@
                       <origDate>1487</origDate>
                     </origin>
                     <acquisition>Donated by T.C.S.</acquisition>
-                  </history><!-- non compaiono -->
+                  </history>
                 </msDesc>
 
             </sourceDesc>
@@ -436,7 +436,7 @@
             </l>
 
             <l n="2"><lb facs="#DMAF_line_164r_02" n="2" xml:id="DMAF_lb_164r_02"/>
-              <hi rend="decorated"><g ref="#THORN"/>E</hi> gud wiff <g ref="#sins"/>chawi<g ref="#sclose"/> <g ref="#thorn"/>e be<g ref="#sins"/>t <g ref="#sins"/>cho can
+              <hi rend="decorated"><g ref="#THORN"/>E</hi> gud wiff <g ref="#sins"/>chawi<g ref="#sclose"/> <g ref="#thorn"/>e be<g ref="#sins"/>t <g ref="#sins"/>cho can<reg>,</reg>
             </l>
 
             <l n="3"><lb facs="#DMAF_line_164r_03" n="3" xml:id="DMAF_lb_164r_03"/>
@@ -444,7 +444,7 @@
               <choice>
                 <abbr>vom<am>a<g ref="#bar"/></am></abbr>
                 <expan>voma<ex>n</ex></expan>
-              </choice>
+              </choice><reg>,</reg>
             </l>
 
             <l n="4"><lb facs="#DMAF_line_164r_04" n="4" xml:id="DMAF_lb_164r_04"/>
@@ -470,7 +470,7 @@
                 <abbr>po<am>u<g ref="#bar"/></am></abbr>
                 <expan>pou<ex>er</ex></expan>
               </choice> 
-              women p<g ref="#rrot"/>inci<g ref="#sclose"/> peir
+              women p<g ref="#rrot"/>inci<g ref="#sclose"/> peir<reg>,</reg>
             </l>
 
             <l n="6"><lb facs="#DMAF_line_164r_06" n="6" xml:id="DMAF_lb_164r_06"/>
@@ -478,7 +478,7 @@
             </l>
 
             <l n="7"><lb facs="#DMAF_line_164r_07" n="7" xml:id="DMAF_lb_164r_07"/>
-              <hi rend="decorated"><g ref="#THORN"/></hi>at followi<g ref="#sclose"/> foull women <g ref="#et"/> <g ref="#sins"/>ch<g ref="#rrot"/>ewi<g ref="#sclose"/>
+              <hi rend="decorated"><g ref="#THORN"/></hi>at followi<g ref="#sclose"/> foull women <g ref="#et"/> <g ref="#sins"/>ch<g ref="#rrot"/>ewi<g ref="#sclose"/><reg>.</reg>
             </l>
 
             <l n="8"><lb facs="#DMAF_line_164r_08" n="8" xml:id="DMAF_lb_164r_08"/>
@@ -491,7 +491,7 @@
                 <abbr>wom<am>a<g ref="#bar"/></am>i<g ref="#sclose"/></abbr>
                 <expan>woma<ex>n</ex>i<g ref="#sclose"/></expan>
               </choice> 
-              honor i<g ref="#sclose"/> mair <g ref="#sins"/>lyder
+              honor i<g ref="#sclose"/> mair <g ref="#sins"/>lyder<reg>,</reg>
             </l>
 
             <l n="10"><lb facs="#DMAF_line_164r_10" n="10" xml:id="DMAF_lb_164r_10"/>
@@ -508,7 +508,7 @@
                 <abbr>tak<am><g ref="#is"/></am></abbr>
                 <expan>tak<ex>is</ex></expan> 
               </choice>
-              fadyng
+              fadyng<reg>.</reg>
             </l>
 
             <l n="12"><lb facs="#DMAF_line_164r_12" n="12" xml:id="DMAF_lb_164r_12"/>
@@ -531,7 +531,7 @@
                 <orig>mytht</orig>
                 <reg>mycht</reg>
               </choice> 
-              hir honour
+              hir honour<reg>,</reg>
             </l>
 
             <l n="14"><lb facs="#DMAF_line_164r_14" n="14" xml:id="DMAF_lb_164r_14"/>
@@ -539,7 +539,7 @@
             </l>
 
             <l n="15"><lb facs="#DMAF_line_164r_15" n="15" xml:id="DMAF_lb_164r_15"/>
-              and litill of <hi rend="cap">L</hi>angage for to be
+              and litill of <hi rend="cap">L</hi>angage for to be<reg>,</reg>
             </l>
 
             <l n="16"><lb facs="#DMAF_line_164r_16" n="16" xml:id="DMAF_lb_164r_16"/>
@@ -552,7 +552,7 @@
                 <orig>lauthtir</orig>
                 <reg>lauchtir</reg>
               </choice> 
-              na of langage c<g ref="#rrot"/>ou<g ref="#szlig"/>
+              na of langage c<g ref="#rrot"/>ou<g ref="#szlig"/><reg>,</reg>
             </l>
 
             <l n="17"><lb facs="#DMAF_line_164r_17" n="17" xml:id="DMAF_lb_164r_17"/>
@@ -561,7 +561,7 @@
                 <abbr>e<am>u<g ref="#bar"/></am></abbr>
                 <expan>eu<ex>ir</ex></expan>
               </choice> 
-              do <g ref="#sins"/>um gud to the hou<g ref="#szlig"/>
+              do <g ref="#sins"/>um gud to the hou<g ref="#szlig"/><reg>.</reg>
             </l>
 
             <l n="18"><lb facs="#DMAF_line_164r_18" n="18" xml:id="DMAF_lb_164r_18"/>
