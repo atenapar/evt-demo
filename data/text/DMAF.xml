@@ -623,7 +623,10 @@
                 <abbr>no<am><g ref="#tsup"/></am></abbr>
                 <expan>no<ex>ch</ex>t</expan>
               </choice> 
-              le<g ref="#sins"/>ull 
+              <choice>
+                <orig>le<g ref="#sins"/>ull</orig>
+                <reg>lefull</reg>
+              </choice> 
               <choice>
                 <abbr>t<g ref="#rrot"/>atlyng<am><g ref="#is"/></am></abbr>
                 <expan>t<g ref="#rrot"/>atlyng<ex>is</ex></expan>
