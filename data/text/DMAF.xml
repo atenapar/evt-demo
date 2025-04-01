@@ -202,7 +202,7 @@
             <localProp name="entity" value="szlig"/>
             <mapping type="codepoint">U+00DF</mapping>
             <mapping type="diplomatic">ß</mapping>
-            <mapping type="normalized">se</mapping>
+            <mapping type="normalized">s</mapping>
           </char>
 
           <char xml:id="sclose">
@@ -499,7 +499,12 @@
             </l>
 
             <l n="11"><lb facs="#DMAF_line_164r_11" n="11" xml:id="DMAF_lb_164r_11"/>
-              <hi rend="cap">A</hi><g ref="#sclose"/> fa<g ref="#rrot"/>e<g ref="#sins"/>t <g ref="#rrot"/>o<g ref="#szlig"/> <g ref="#sins"/>oyne 
+              <hi rend="cap">A</hi><g ref="#sclose"/> fa<g ref="#rrot"/>e<g ref="#sins"/>t 
+              <choice>
+                <abbr><g ref="#rrot"/>o<am><g ref="#szlig"/></am></abbr>
+                <expan><g ref="#rrot"/>o<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              <g ref="#sins"/>oyne 
               <choice>
                 <abbr>tak<am><g ref="#is"/></am></abbr>
                 <expan>tak<ex>is</ex></expan> 
@@ -548,7 +553,11 @@
                 <orig>lauthtir</orig>
                 <reg>lauchtir</reg>
               </choice> 
-              na of langage c<g ref="#rrot"/>ou<g ref="#szlig"/><reg>,</reg>
+              na of langage 
+              <choice>
+                <abbr>c<g ref="#rrot"/>ou<am><g ref="#szlig"/></am></abbr>
+                <expan>c<g ref="#rrot"/>ou<g ref="#szlig"/><ex>e</ex></expan>
+              </choice><reg>,</reg>
             </l>
 
             <l n="17"><lb facs="#DMAF_line_164r_17" n="17" xml:id="DMAF_lb_164r_17"/>
@@ -557,7 +566,12 @@
                 <abbr>e<am>u<g ref="#bar"/></am></abbr>
                 <expan>eu<ex>ir</ex></expan>
               </choice> 
-              do <g ref="#sins"/>um gud to the hou<g ref="#szlig"/><reg>.</reg>
+              do <g ref="#sins"/>um gud to the hou<g ref="#szlig"/>
+              <choice>
+                <abbr>hou<am><g ref="#szlig"/></am></abbr>
+                <expan>hou<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
+              <reg>.</reg>
             </l>
 
             <l n="18"><lb facs="#DMAF_line_164r_18" n="18" xml:id="DMAF_lb_164r_18"/>
