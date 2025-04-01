@@ -566,7 +566,7 @@
                 <abbr>e<am>u<g ref="#bar"/></am></abbr>
                 <expan>eu<ex>ir</ex></expan>
               </choice> 
-              do <g ref="#sins"/>um gud to the hou<g ref="#szlig"/>
+              do <g ref="#sins"/>um gud to the 
               <choice>
                 <abbr>hou<am><g ref="#szlig"/></am></abbr>
                 <expan>hou<g ref="#szlig"/><ex>e</ex></expan>
@@ -578,8 +578,12 @@
               <choice>
                 <abbr><hi rend="cap">N</hi>o<am><g ref="#tsup"/></am></abbr>
                 <expan><hi rend="cap">N</hi>o<ex>ch</ex>t</expan>
-              </choice>
-              oy<g ref="#szlig"/> of t<g ref="#rrot"/>atlyng in <g ref="#thorn"/>e 
+              </choice> 
+              <choice>
+                <abbr>oy<am><g ref="#szlig"/></am></abbr>
+                <expan>oy<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              of t<g ref="#rrot"/>atlyng in <g ref="#thorn"/>e 
               <choice>
                 <orig>tou<g ref="#bar"/>n<g ref="#bar"/>e<g ref="#bar"/></orig>
                 <reg>toune</reg>
@@ -645,7 +649,12 @@
             </l>
 
             <l n="27"><lb facs="#DMAF_line_164r_27" n="27" xml:id="DMAF_lb_164r_27"/>
-              <hi rend="cap">N</hi>a till <g ref="#rrot"/>ehe<g ref="#rrot"/><g ref="#szlig"/> quha vald 
+              <hi rend="cap">N</hi>a till 
+              <choice>
+                <abbr><g ref="#rrot"/>ehe<g ref="#rrot"/><am><g ref="#szlig"/></am></abbr>
+                <expan><g ref="#rrot"/>ehe<g ref="#rrot"/><g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              quha vald 
               <choice>
                 <abbr><g ref="#thorn"/>a<am>i<g ref="#bar"/></am></abbr>
                 <expan><g ref="#thorn"/>ai<ex>m</ex></expan>
@@ -683,11 +692,19 @@
                 <abbr><hi rend="cap">N</hi>o<am><g ref="#tsup"/></am></abbr>
                 <expan><hi rend="cap">N</hi>o<ex>ch</ex>t</expan>
               </choice> 
-              our co<g ref="#sins"/>tlik na <g ref="#yogh"/><g ref="#eenl"/>it <g ref="#sins"/>umptuou<g ref="szlig"/>
+              our co<g ref="#sins"/>tlik na <g ref="#yogh"/><g ref="#eenl"/>it 
+              <choice>
+                <abbr><g ref="#sins"/>umptuou<am><g ref="#szlig"/></am></abbr>
+                <expan><g ref="#sins"/>umptuou<g ref="szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
 
             <l n="33"><lb facs="#DMAF_line_164r_33" n="33" xml:id="DMAF_lb_164r_33"/>
-              <hi rend="cap">T</hi>o mak folk at hir  <hi rend="cap">I</hi>nvyou<g ref="szlig"/>
+              <hi rend="cap">T</hi>o mak folk at hir  
+              <choice>
+                <abbr><hi rend="cap">I</hi>nvyou<am><g ref="szlig"/></am></abbr>
+                <expan><hi rend="cap">I</hi>nvyou<g ref="szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
 
             <l n="34"><lb facs="#DMAF_line_164r_34" n="34" xml:id="DMAF_lb_164r_34"/>
@@ -764,7 +781,12 @@
                 <orig><hi rend="cap">N</hi>otht</orig>
                 <reg><hi rend="cap">N</hi>ocht</reg>
               </choice> 
-              our fer p<g ref="#rrot"/>e<g ref="#szlig"/> hir till avan<g ref="#sclose"/>
+              our fer 
+              <choice>
+                <abbr>p<g ref="#rrot"/>e<am><g ref="szlig"/></am></abbr>
+                <expan>p<g ref="#rrot"/>e<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              hir till avan<g ref="#sclose"/>
             </l>
 
             <l n="5"><lb facs="#DMAF_line_164v_05" n="5" xml:id="DMAF_lb_164v_05"/>
@@ -785,7 +807,11 @@
             </l>
 
             <l n="8"><lb facs="#DMAF_line_164v_08" n="8" xml:id="DMAF_lb_164v_08"/>
-              <hi rend="cap">S</hi>cho <g ref="#sins"/>uld draw to <g ref="#thorn"/>e <hi rend="cap">L</hi>awa<g ref="#sins"/>t pla<g ref="#szlig"/>
+              <hi rend="cap">S</hi>cho <g ref="#sins"/>uld draw to <g ref="#thorn"/>e <hi rend="cap">L</hi>awa<g ref="#sins"/>t 
+              <choice>
+                <abbr>pla<am><g ref="szlig"/></am></abbr>
+                <expan>pla<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
 
             <l n="9"><lb facs="#DMAF_line_164v_09" n="9" xml:id="DMAF_lb_164v_09"/>
@@ -801,7 +827,11 @@
             </l>
 
             <l n="12"><lb facs="#DMAF_line_164v_12" n="12" xml:id="DMAF_lb_164v_12"/>
-              <hi rend="cap">Q</hi>uhen p<g ref="#rrot"/>y<g ref="#drot"/> i<g ref="#sclose"/> pwny<g ref="#sins"/>t in all pla<g ref="#szlig"/>
+              <hi rend="cap">Q</hi>uhen p<g ref="#rrot"/>y<g ref="#drot"/> i<g ref="#sclose"/> pwny<g ref="#sins"/>t in all 
+              <choice>
+                <abbr>pla<am><g ref="szlig"/></am></abbr>
+                <expan>pla<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
 
             <l n="13"><lb facs="#DMAF_line_164v_13" n="13" xml:id="DMAF_lb_164v_13"/>
@@ -855,7 +885,11 @@
             </l>
 
             <l n="19"><lb facs="#DMAF_line_164v_19" n="19" xml:id="DMAF_lb_164v_19"/>
-              for p<g ref="#rrot"/>yd gai<g ref="#sclose"/> no thing be <g ref="#thorn"/>e clai<g ref="#szlig"/>
+              for p<g ref="#rrot"/>yd gai<g ref="#sclose"/> no thing be <g ref="#thorn"/>e 
+              <choice>
+                <abbr>clai<am><g ref="szlig"/></am></abbr>
+                <expan>clai<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
 
             <l n="20"><lb facs="#DMAF_line_164v_20" n="20" xml:id="DMAF_lb_164v_20"/>
@@ -864,7 +898,10 @@
                 <abbr>wom<am>a<g ref="#bar"/></am></abbr>
                 <expan>woma<ex>n</ex></expan>
               </choice> 
-              ha<g ref="#szlig"/>
+              <choice>
+                <abbr>ha<am><g ref="szlig"/></am></abbr>
+                <expan>ha<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
 
             <l n="21"><lb facs="#DMAF_line_164v_21" n="21" xml:id="DMAF_lb_164v_21"/>
@@ -876,7 +913,16 @@
             </l>
 
             <l n="23"><lb facs="#DMAF_line_164v_23" n="23" xml:id="DMAF_lb_164v_23"/>
-              <hi rend="cap"><g ref="#THORN"/></hi>at half <g ref="#thorn"/>e <g ref="#rrot"/>iche<g ref="#szlig"/> <g ref="#thorn"/>at he ha<g ref="#szlig"/>
+              <hi rend="cap"><g ref="#THORN"/></hi>at half <g ref="#thorn"/>e 
+              <choice>
+                <abbr><g ref="#rrot"/>iche<am><g ref="szlig"/></am></abbr>
+                <expan><g ref="#rrot"/>iche<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              <g ref="#thorn"/>at he 
+              <choice>
+                <abbr>ha<am><g ref="szlig"/></am></abbr>
+                <expan>ha<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
 
             <l n="24"><lb facs="#DMAF_line_164v_24" n="24" xml:id="DMAF_lb_164v_24"/>
@@ -885,7 +931,10 @@
                 <abbr>viff<am><g ref="#is"/></am></abbr>
                 <expan>viff<ex>is</ex></expan>
               </choice> 
-              cla<g ref="#szlig"/>
+              <choice>
+                <abbr>cla<am><g ref="szlig"/></am></abbr>
+                <expan>cla<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
             
             <l n="25"><lb facs="#DMAF_line_164v_25" n="25" xml:id="DMAF_lb_164v_25"/>
@@ -999,7 +1048,11 @@
             <pb n="165r" xml:id="DMAF_fol_165r" facs="data/images/single/DMAF_fol_165r.jpg"/>
             <l n="1"><lb facs="#DMAF_line_165r_01" n="1" xml:id="DMAF_lb_165r_01"/>
               <note type="marginalia" place="bottom"><add> AA AA A A AAA AA</add></note>
-              fo<g ref="#rrot"/> meti<g ref="#sclose"/> and d<g ref="#rrot"/>ynki<g ref="#sclose"/> deliciou<g ref="#szlig"/>
+              fo<g ref="#rrot"/> meti<g ref="#sclose"/> and d<g ref="#rrot"/>ynki<g ref="#sclose"/> 
+              <choice>
+                <abbr>deliciou<am><g ref="szlig"/></am></abbr>
+                <expan>deliciou<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
 
             <l n="2"><lb facs="#DMAF_line_165r_02" n="2" xml:id="DMAF_lb_165r_02"/>
@@ -1037,7 +1090,11 @@
                 <abbr><g ref="#thorn"/>a<am>i<g ref="#bar"/></am></abbr>
                 <expan><g ref="#thorn"/>ai<ex>m</ex></expan>
               </choice> 
-              vi<g ref="#szlig"/> folk of age
+              <choice>
+                <abbr>vi<am><g ref="szlig"/></am></abbr>
+                <expan>vi<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              folk of age
             </l>
 
             <l n="7"><lb facs="#DMAF_line_165r_07" n="7" xml:id="DMAF_lb_165r_07"/>
@@ -1125,7 +1182,11 @@
             </l>
 
             <l n="15"><lb facs="#DMAF_line_165r_15" n="15" xml:id="DMAF_lb_165r_15"/>
-              <hi rend="cap">S</hi>uppo<g ref="#szlig"/> no man will <g ref="#thorn"/>ame my<g ref="#sins"/>t<g ref="#rrot"/>a<g ref="#sins"/>t
+              <choice>
+                <abbr><hi rend="cap">S</hi>uppo<am><g ref="szlig"/></am></abbr>
+                <expan><hi rend="cap">S</hi>uppo<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              no man will <g ref="#thorn"/>ame my<g ref="#sins"/>t<g ref="#rrot"/>a<g ref="#sins"/>t
             </l>
 
             <l n="16"><lb facs="#DMAF_line_165r_16" n="16" xml:id="DMAF_lb_165r_16"/>
@@ -1195,7 +1256,11 @@
             </l>
 
             <l n="28"><lb facs="#DMAF_line_165r_28" n="28" xml:id="DMAF_lb_165r_28"/>
-              <hi rend="cap">T</hi>en thou<g ref="#sins"/>and tynt ar on thi<g ref="#sclose"/> vi<g ref="#szlig"/>
+              <hi rend="cap">T</hi>en thou<g ref="#sins"/>and tynt ar on thi<g ref="#sclose"/> 
+              <choice>
+                <abbr>vi<am><g ref="szlig"/></am></abbr>
+                <expan>vi<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
 
             <l n="29"><lb facs="#DMAF_line_165r_29" n="29" xml:id="DMAF_lb_165r_29"/>
@@ -1209,11 +1274,19 @@
                 <abbr>b<g ref="#rrot"/>e<am><g ref="#thorn"/><g ref="#combcurlhigh"/></am></abbr>
                 <expan>b<g ref="#rrot"/>e<g ref="#thorn"/><ex>ir</ex></expan>
               </choice> 
-              in <g ref="#sins"/>ic lik ca<g ref="#szlig"/>
+              in <g ref="#sins"/>ic lik 
+              <choice>
+                <abbr>ca<am><g ref="szlig"/></am></abbr>
+                <expan>ca<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
 
             <l n="30"><lb facs="#DMAF_line_165r_30" n="30" xml:id="DMAF_lb_165r_30"/>
-              <hi rend="cap">T</hi>hat bany<g ref="#sins"/>t <g ref="#sins"/>yne fra f<g ref="#rrot"/>endi<g ref="#sclose"/> wa<g ref="#szlig"/>
+              <hi rend="cap">T</hi>hat bany<g ref="#sins"/>t <g ref="#sins"/>yne fra f<g ref="#rrot"/>endi<g ref="#sclose"/>
+              <choice>
+                <abbr>wa<am><g ref="szlig"/></am></abbr>
+                <expan>wa<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
 
             <l n="31"><lb facs="#DMAF_line_165r_31" n="31" xml:id="DMAF_lb_165r_31"/>
@@ -1255,7 +1328,7 @@
               <hi rend="cap">O</hi><g ref="#rrot"/> <g ref="#yogh"/>eit 
               <choice>
                 <orig>till<g ref="#sol"/>dan<g ref="#szlig"/></orig>
-                <reg>till dan<g ref="#szlig"/></reg>
+                <reg>till dan<g ref="#szlig"/>e</reg>
               </choice> 
               in to <g ref="#thorn"/>e <g ref="#rrot"/>yng
             </l>
@@ -1273,7 +1346,10 @@
             </l>
 
             <l n="39"><lb facs="#DMAF_line_165r_39" n="39" xml:id="DMAF_lb_165r_39"/>
-              <hi rend="cap">O</hi>y<g ref="#szlig"/> 
+              <choice>
+                <abbr><hi rend="cap">O</hi>y<am><g ref="szlig"/></am></abbr>
+                <expan><hi rend="cap">O</hi>y<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
               <choice>
                 <abbr>nou<am><g ref="#thorn"/><g ref="#combcurlhigh"/></am></abbr>
                 <expan>nou<g ref="#thorn"/><ex>ir</ex></expan>
@@ -1282,7 +1358,10 @@
             </l>
 
             <l n="40"><lb facs="#DMAF_line_165r_40" n="40" xml:id="DMAF_lb_165r_40"/>
-              <hi rend="cap">P</hi><g ref="#rrot"/>e<g ref="#szlig"/> 
+              <choice>
+                <abbr><hi rend="cap">P</hi><g ref="#rrot"/>e<am><g ref="szlig"/></am></abbr>
+                <expan><hi rend="cap">P</hi><g ref="#rrot"/>e<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
               <choice>
                 <abbr>no<am><g ref="#tsup"/></am></abbr>
                 <expan>no<ex>ch</ex>t</expan>
@@ -1312,7 +1391,10 @@
             </l>
 
             <l n="3"><lb facs="#DMAF_line_165v_03" n="3" xml:id="DMAF_lb_165v_03"/>
-              <hi rend="cap">P</hi><g ref="#rrot"/>e<g ref="#szlig"/> 
+              <choice>
+                <abbr><hi rend="cap">P</hi><g ref="#rrot"/>e<am><g ref="szlig"/></am></abbr>
+                <expan><hi rend="cap">P</hi><g ref="#rrot"/>e<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
               <choice>
                 <orig>notht</orig>
                 <reg>nocht</reg>
@@ -1343,7 +1425,12 @@
                 <abbr>no<am><g ref="#tsup"/></am></abbr>
                 <expan>no<ex>ch</ex>t</expan>
               </choice> 
-              na flu<g ref="#rrot"/>i<g ref="#szlig"/> <g ref="#thorn"/>at vill fade
+              na 
+              <choice>
+                <abbr>flu<g ref="#rrot"/>i<am><g ref="szlig"/></am></abbr>
+                <expan>flu<g ref="#rrot"/>i<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              <g ref="#thorn"/>at vill fade
             </l>
 
             <l n="8"><lb facs="#DMAF_line_165v_08" n="8" xml:id="DMAF_lb_165v_08"/>
@@ -1454,7 +1541,12 @@
             </l>
 
             <l n="25"><lb facs="#DMAF_line_165v_25" n="25" xml:id="DMAF_lb_165v_25"/>
-              <hi rend="cap">A</hi>nd g<g ref="#rrot"/>aciou<g ref="#szlig"/> ay till hir men<g ref="#yogh"/>he
+              <hi rend="cap">A</hi>nd 
+              <choice>
+                <abbr>g<g ref="#rrot"/>aciou<am><g ref="szlig"/></am></abbr>
+                <expan>g<g ref="#rrot"/>aciou<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              ay till hir men<g ref="#yogh"/>he
             </l>
 
             <l n="26"><lb facs="#DMAF_line_165v_26" n="26" xml:id="DMAF_lb_165v_26"/>
@@ -1572,11 +1664,18 @@
                 <orig>vantoune<g ref="#combcurlhigh"/></orig>
                 <reg>vantoune</reg>
               </choice> 
-              giglot<g ref="#rrot"/>i<g ref="#szlig"/>
+              <choice>
+                <abbr>giglot<g ref="#rrot"/>i<am><g ref="szlig"/></am></abbr>
+                <expan>giglot<g ref="#rrot"/>i<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
             </l>
             
             <l n="2"><lb facs="#DMAF_line_166r_02" n="2" xml:id="DMAF_lb_166r_02"/>
-              kepe fe<g ref="#rrot"/>i<g ref="#sclose"/> of women <g ref="#thorn"/>at ar vi<g ref="#szlig"/>
+              kepe fe<g ref="#rrot"/>i<g ref="#sclose"/> of women <g ref="#thorn"/>at ar 
+              <choice>
+                <abbr>vi<am><g ref="szlig"/></am></abbr>
+                <expan>vi<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
             
             <l n="3"><lb facs="#DMAF_line_166r_03" n="3" xml:id="DMAF_lb_166r_03"/>
@@ -1651,7 +1750,11 @@
             </l>
             
             <l n="11"><lb facs="#DMAF_line_166r_11" n="11" xml:id="DMAF_lb_166r_11"/>
-              <hi rend="cap">S</hi>uppo<g ref="#szlig"/> <g ref="#sins"/>cho heir <damage agent="water">of</damage> it na thing
+              <choice>
+                <abbr><hi rend="cap">S</hi>uppo<am><g ref="szlig"/></am></abbr>
+                <expan><hi rend="cap">S</hi>uppo<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              <g ref="#sins"/>cho heir <damage agent="water">of</damage> it na thing
             </l>
             
             <l n="12"><lb facs="#DMAF_line_166r_12" n="12" xml:id="DMAF_lb_166r_12"/>
@@ -1896,7 +1999,12 @@
                 <abbr>no<am><g ref="#tsup"/></am></abbr>
                 <expan>no<ex>ch</ex>t</expan>
               </choice> 
-              but g<g ref="#rrot"/>et cau<g ref="#szlig"/> manife<g ref="#sins"/>t
+              but g<g ref="#rrot"/>et 
+              <choice>
+                <abbr>cau<am><g ref="szlig"/></am></abbr>
+                <expan>cau<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              manife<g ref="#sins"/>t
             </l>
 
             <l n="40"><lb facs="#DMAF_line_166r_40" n="40" xml:id="DMAF_lb_166r_40"/>
@@ -1944,7 +2052,12 @@
             </l>
             
             <l n="6"><lb facs="#DMAF_line_166v_06" n="6" xml:id="DMAF_lb_166v_06"/>
-              and heir me<g ref="#szlig"/> on <g ref="#thorn"/>e haly day
+              and heir 
+              <choice>
+                <abbr>me<am><g ref="szlig"/></am></abbr>
+                <expan>me<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              on <g ref="#thorn"/>e haly day
             </l>
             
             <l n="7"><lb facs="#DMAF_line_166v_07" n="7" xml:id="DMAF_lb_166v_07"/>
@@ -2113,7 +2226,11 @@
             </l>
             
             <l n="27"><lb facs="#DMAF_line_166v_27" n="27" xml:id="DMAF_lb_166v_27"/>
-              <hi rend="cap">S</hi>uppo<g ref="#szlig"/> it war agane <g ref="#thorn"/>air will
+              <choice>
+                <abbr><hi rend="cap">S</hi>uppo<am><g ref="szlig"/></am></abbr>
+                <expan><hi rend="cap">S</hi>uppo<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              it war agane <g ref="#thorn"/>air will
             </l>
             
             <l n="28"><lb facs="#DMAF_line_166v_28" n="28" xml:id="DMAF_lb_166v_28"/>
@@ -2293,11 +2410,20 @@
             </l>
             
             <l n="11"><lb facs="#DMAF_line_167r_11" n="11" xml:id="DMAF_lb_167r_11"/>
-              for <g ref="#sins"/>eilden fynde we ba<g ref="#rrot"/>ny<g ref="#sclose"/> vi<g ref="#szlig"/>
+              for <g ref="#sins"/>eilden fynde we ba<g ref="#rrot"/>ny<g ref="#sclose"/> 
+              <choice>
+                <abbr>vi<am><g ref="szlig"/></am></abbr>
+                <expan>vi<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
             
             <l n="12"><lb facs="#DMAF_line_167r_12" n="12" xml:id="DMAF_lb_167r_12"/>
-              <g ref="#thorn"/>ow may in <g ref="#yogh"/>outhede ty<g ref="#szlig"/> a cheld
+              <g ref="#thorn"/>ow may in <g ref="#yogh"/>outhede 
+              <choice>
+                <abbr>ty<am><g ref="szlig"/></am></abbr>
+                <expan>ty<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              a cheld
             </l>
             
             <l n="13"><lb facs="#DMAF_line_167r_13" n="13" xml:id="DMAF_lb_167r_13"/>
@@ -2348,11 +2474,19 @@
                 <orig><g ref="#thorn"/>ai<g ref="#sol"/>do</orig>
                 <reg><g ref="#thorn"/>ai do</reg>
               </choice> 
-              my<g ref="#szlig"/>
+              <choice>
+                <abbr>my<am><g ref="szlig"/></am></abbr>
+                <expan>my<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
             
             <l n="21"><lb facs="#DMAF_line_167r_21" n="21" xml:id="DMAF_lb_167r_21"/>
-              <hi rend="cap">O</hi>ur <g ref="#rrot"/>ekle<g ref="#sclose"/> thoula<g ref="#szlig"/> wantoun i<g ref="#sclose"/>
+              <hi rend="cap">O</hi>ur <g ref="#rrot"/>ekle<g ref="#sclose"/> 
+              <choice>
+                <abbr>thoula<am><g ref="szlig"/></am></abbr>
+                <expan>thoula<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              wantoun i<g ref="#sclose"/>
             </l>
             
             <l n="22"><lb facs="#DMAF_line_167r_22" n="22" xml:id="DMAF_lb_167r_22"/>
@@ -2360,7 +2494,12 @@
             </l>
             
             <l n="23"><lb facs="#DMAF_line_167r_23" n="23" xml:id="DMAF_lb_167r_23"/>
-              <hi rend="cap">W</hi>o<g ref="#rrot"/>thy women wi<g ref="#szlig"/> and abill
+              <hi rend="cap">W</hi>o<g ref="#rrot"/>thy women 
+              <choice>
+                <abbr>wi<am><g ref="szlig"/></am></abbr>
+                <expan>wi<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              and abill
             </l>
             
             <l n="24"><lb facs="#DMAF_line_167r_24" n="24" xml:id="DMAF_lb_167r_24"/>
@@ -2444,11 +2583,19 @@
                 <orig><g ref="#thorn"/>ai<g ref="#sol"/>do</orig>
                 <reg><g ref="#thorn"/>ai do</reg>
               </choice> 
-              my<g ref="#szlig"/>
+              <choice>
+                <abbr>my<am><g ref="szlig"/></am></abbr>
+                <expan>my<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
             
             <l n="37"><lb facs="#DMAF_line_167r_37" n="37" xml:id="DMAF_lb_167r_37"/>
-              <hi rend="cap">A</hi>nd <g ref="#rrot"/>ekle<g ref="#szlig"/> or our wantoun i<g ref="#sclose"/>
+              <hi rend="cap">A</hi>nd 
+              <choice>
+                <abbr><g ref="#rrot"/>ekle<am><g ref="szlig"/></am></abbr>
+                <expan><g ref="#rrot"/>ekle<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              or our wantoun i<g ref="#sclose"/>
             </l>
             
             <l n="38"><lb facs="#DMAF_line_167r_38" n="38" xml:id="DMAF_lb_167r_38"/>
@@ -2579,7 +2726,12 @@
             </l>
             
             <l n="14"><lb facs="#DMAF_line_167v_14" n="14" xml:id="DMAF_lb_167v_14"/>
-              <hi rend="cap">G</hi><g ref="#rrot"/>et couati<g ref="#szlig"/> and g<g ref="#rrot"/>edyne<g ref="#sclose"/>
+              <hi rend="cap">G</hi><g ref="#rrot"/>et 
+              <choice>
+                <abbr>couati<am><g ref="szlig"/></am></abbr>
+                <expan>couati<g ref="#szlig"/><ex>e</ex></expan>
+              </choice> 
+              and g<g ref="#rrot"/>edyne<g ref="#sclose"/>
             </l>
             
             <l n="15"><lb facs="#DMAF_line_167v_15" n="15" xml:id="DMAF_lb_167v_15"/>
@@ -2627,7 +2779,11 @@
             </l>
             
             <l n="20"><lb facs="#DMAF_line_167v_20" n="20" xml:id="DMAF_lb_167v_20"/>
-              <hi rend="cap">T</hi>hat tyni<g ref="#sclose"/> <g ref="#thorn"/>ar ba<g ref="#rrot"/>ny<g ref="#sclose"/> on <g ref="#thorn"/>i<g ref="#close"/> wi<g ref="#szlig"/>
+              <hi rend="cap">T</hi>hat tyni<g ref="#sclose"/> <g ref="#thorn"/>ar ba<g ref="#rrot"/>ny<g ref="#sclose"/> on <g ref="#thorn"/>i<g ref="#close"/> 
+              <choice>
+                <abbr>wi<am><g ref="szlig"/></am></abbr>
+                <expan>wi<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
             
             <l n="21"><lb facs="#DMAF_line_167v_21" n="21" xml:id="DMAF_lb_167v_21"/>
@@ -2678,7 +2834,11 @@
             </l>
             
             <l n="28"><lb facs="#DMAF_line_167v_28" n="28" xml:id="DMAF_lb_167v_28"/>
-              <hi rend="cap">T</hi>hu<g ref="#sclose"/> bath ar tynt th<g ref="#rrot"/>ou vikkidna<g ref="#szlig"/>
+              <hi rend="cap">T</hi>hu<g ref="#sclose"/> bath ar tynt th<g ref="#rrot"/>ou 
+              <choice>
+                <abbr>vikkidna<am><g ref="szlig"/></am></abbr>
+                <expan>vikkidna<g ref="#szlig"/><ex>e</ex></expan>
+              </choice>
             </l>
             
             <l n="29" rend="red_contour"><lb facs="#DMAF_line_167v_29" n="29" xml:id="DMAF_lb_167v_29"/>
