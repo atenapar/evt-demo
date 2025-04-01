@@ -202,7 +202,7 @@
             <localProp name="entity" value="szlig"/>
             <mapping type="codepoint">U+00DF</mapping>
             <mapping type="diplomatic">ß</mapping>
-            <mapping type="normalized">s</mapping>
+            <mapping type="normalized">se</mapping>
           </char>
 
           <char xml:id="sclose">
@@ -499,11 +499,7 @@
             </l>
 
             <l n="11"><lb facs="#DMAF_line_164r_11" n="11" xml:id="DMAF_lb_164r_11"/>
-              <hi rend="cap">A</hi><g ref="#sclose"/> fa<g ref="#rrot"/>e<g ref="#sins"/>t 
-              <choice>
-                <abbr><g ref="#rrot"/>o<am><g ref="#szlig"/></am></abbr>
-                <expan><g ref="#rrot"/>os<ex>e</ex></expan></choice> 
-              <g ref="#sins"/>oyne 
+              <hi rend="cap">A</hi><g ref="#sclose"/> fa<g ref="#rrot"/>e<g ref="#sins"/>t <g ref="#rrot"/>o<g ref="#szlig"/> <g ref="#sins"/>oyne 
               <choice>
                 <abbr>tak<am><g ref="#is"/></am></abbr>
                 <expan>tak<ex>is</ex></expan> 
