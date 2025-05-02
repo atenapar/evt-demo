@@ -8,7 +8,7 @@
         <teiHeader>
           <fileDesc>
               <titleStmt>
-                <title>Edition of 191 G.23 ff. 164v-167r "Documenta matris ad filiam"</title> 
+                <title>Edition of Cambridge, St. John's College, MS 191 G.23 ff. 164v-167r "Documenta matris ad filiam"</title> 
                 <author>J. de Ramsey Capellani</author>
                 <principal>Atena Parolai</principal>
                 <respStmt>
@@ -383,7 +383,7 @@
         <text n="Documenta matris ad filiam" xml:id="text_DMAF">
         <front>
           <titlePage>
-            <titlePart>Documenta matris ad filiam</titlePart>
+            <titlePart>Edition of Cambridge, St. John's College, MS 191 G.23 "Documenta matris ad filiam"</titlePart>
           </titlePage>
 
           <div type="paratext" subtype="intro">
