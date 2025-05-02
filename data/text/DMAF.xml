@@ -31,7 +31,7 @@
               <extent>[??] kilobytes</extent>
               
               <publicationStmt>
-              <p>A critical printed edition of Documenta matris ad filiam can be found in Ratis Raving: And Other Early Scots Poems on Morals, 1939, by Ritchie Girvan printed for the Society by W. Blackwood and Sons. The text is printed on the odd-numbered pages 82-99.</p>
+              <p>By permission of the Master and Fellows of St John's College, Cambridge. A critical printed edition of Documenta matris ad filiam can be found in Ratis Raving: And Other Early Scots Poems on Morals, 1939, by Ritchie Girvan printed for the Society by W. Blackwood and Sons. The text is printed on the odd-numbered pages 82-99.</p>
               </publicationStmt>
 
               <sourceDesc>
@@ -68,10 +68,10 @@
 
                     <msItem n="4">
                       <locus>167v</locus>
-                      <title>Documentum notabile</title>
+                      <title>Scotticized version of John Lydgate’s Dietary</title>
                       <incipit>Inc. documentum notabile</incipit>
                       <explicit>Expl. documentum ualde utile quod J. to yow…</explicit>
-                      <author>J de R Capellani</author><!--Scotticized version of John Lydgate’s Dietary-->
+                      <author>J de R Capellani</author>
                     </msItem>
                   </msContents>
 
@@ -84,7 +84,7 @@
                         </support>
                         <extent>143 leaves, of which the first 25 are missing.
                           <dimensions scope="all" type="leaf" unit="cm">
-                            <height>21</height> <!--compaiono sparsi nel testo-->
+                            <height>21</height>
                             <width>15</width>
                           </dimensions>
                         </extent>
