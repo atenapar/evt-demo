@@ -9,7 +9,7 @@
           <fileDesc>
               <titleStmt>
                 <title>Edition of Cambridge, St. John's College, MS 191 G.23 ff. 164v-167r "Documenta matris ad filiam"</title> 
-                <author>J. de Ramsey Capellani</author>
+                <author>J de R Capellani</author>
                 <principal>Atena Parolai</principal>
                 <respStmt>
                   <resp>Conversion to TEI-conformant markup: </resp>
@@ -39,7 +39,7 @@
                   <msIdentifier>
                     <country>United Kingdom</country>
                     <settlement>Cambridge</settlement>
-                    <repository>St. John's College Library</repository>
+                    <repository>St John's College Library</repository>
                     <idno>191 G.23</idno>
                     <msName>Barbour's Bruce</msName>
                   </msIdentifier>
@@ -98,7 +98,7 @@
 
                     <handDesc hands="1">
                       <handNote script="current">
-                        <p>According to St. John's College Library webpage, the manuscript is entirely written by J. de Ramsay. This is also confirmed in the endings of the first two contents, stating that they were written by "J. de R. Capellani". The hand is described as "ugly current" and has the looks of a mixture between Anglicana and Secretary.</p>
+                        <p>According to St John's College Library webpage, the manuscript is entirely written by J. de Ramsay. The endings of the first two contents state that they were written by "J. de R. Capellani". The hand is described as "ugly current" and has the looks of a mixture between Anglicana and Secretary.</p>
                       </handNote>
                     </handDesc>
 
@@ -383,7 +383,7 @@
         <text n="Documenta matris ad filiam" xml:id="text_DMAF">
         <front>
           <titlePage>
-            <titlePart>Edition of Cambridge, St. John's College, MS 191 G.23 "Documenta matris ad filiam"</titlePart>
+            <titlePart>Edition of Cambridge, St John's College, MS G.23 "Documenta matris ad filiam"</titlePart>
           </titlePage>
 
           <div type="paratext" subtype="intro">
@@ -400,7 +400,7 @@
                   <imprint>
                     <pubPlace>Helsinki</pubPlace>
                     <publisher>Academia Scientiarum Fennica</publisher>
-                    <date>1848</date>
+                    <date>1948</date>
                   </imprint>
                 </monogr>
                 <!-- https://tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#COBITY -->
